@@ -62,8 +62,8 @@ class App extends Component {
           hits: updatedHits,
           page
         },
-        isLoading: false,
-      }
+      },
+      isLoading: false,
     });
   }
 
